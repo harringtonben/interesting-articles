@@ -1,0 +1,54 @@
+#trump1 {
+	background-color: yellow;
+	font-family: Arial, serif;
+	font-size: 25px;
+	line-height: 1.5em;
+	color: aqua;
+	padding: 5px;
+	border: 3px solid orange;
+	border-radius: 3px;
+}
+
+#trump2 {
+	background-color: green;
+	font-family: Helvetica, serif;
+	font-size: 11px;
+	line-height: 1.3em;
+	color: red;
+	padding: 25px;
+	border: 7px dashed yellow;
+	border-radius: 100px;
+}
+
+#trump3 {
+	background-color: black;
+	font-family: 'Courier New', serif;
+	font-size: 18px;
+	line-height: 2em;
+	color: blue;
+	padding: 1px;
+	border: 8px dotted purple;
+	border-radius: 15px;
+}
+
+#trump4 {
+	background-color: grey;
+	font-family: 'Times New Roman', serif;
+	font-size: 32px;
+	line-height: 3em;
+	color: tomato;
+	padding: 40px;
+	border: 14px ridge pink;
+	border-radius: 20px;
+}
+
+#trump5 {
+	background-color: pink;
+	font-family: Georgia, serif;
+	font-size: 54px;
+	line-height: 1em;
+	color: white;
+	padding: 10px;
+	border: 12px groove teal;
+	border-radius: 54px;
+}
